@@ -1,0 +1,17 @@
+{
+  "name": "Unity",
+  "description": "Access Unity",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://unity.com"
+    ],
+    "launch": {
+      "web_url": "https://unity.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

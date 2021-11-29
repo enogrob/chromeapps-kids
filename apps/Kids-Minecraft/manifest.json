@@ -1,0 +1,17 @@
+{
+  "name": "Minecraft",
+  "description": "Access Minecraft",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.minecraft.net/pt-pt"
+    ],
+    "launch": {
+      "web_url": "https://www.minecraft.net/pt-pt"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

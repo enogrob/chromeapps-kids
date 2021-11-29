@@ -1,0 +1,17 @@
+{
+  "name": "YouTubeKids",
+  "description": "Access YouTubeKids",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtubekids.com"
+    ],
+    "launch": {
+      "web_url": "https://www.youtubekids.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
