@@ -1,0 +1,17 @@
+{
+  "name": "Roblox",
+  "description": "Access Roblox",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://web.roblox.com"
+    ],
+    "launch": {
+      "web_url": "https://web.roblox.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Wikipedia-pt",
+  "description": "Access Wikipedia-pt",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://pt.wikipedia.org/wiki/Wikipedia"
+    ],
+    "launch": {
+      "web_url":"http://pt.wikipedia.org/wiki/Wikipedia"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

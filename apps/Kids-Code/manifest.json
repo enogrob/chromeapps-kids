@@ -1,0 +1,17 @@
+{
+  "name": "Code",
+  "description": "Access Code",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://studio.code.org/home"
+    ],
+    "launch": {
+      "web_url": "https://studio.code.org/home"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Gmail",
+  "description": "Access Gmail",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://mail.google.com"
+    ],
+    "launch": {
+      "web_url": "https://mail.google.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

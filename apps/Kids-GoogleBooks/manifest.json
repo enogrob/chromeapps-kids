@@ -1,0 +1,17 @@
+{
+  "name": "Books",
+  "description": "Access Books",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://play.google.com/books/ebooks?source=gbs_lp_bookshelf_list"
+    ],
+    "launch": {
+      "web_url": "https://play.google.com/books/ebooks?source=gbs_lp_bookshelf_list"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

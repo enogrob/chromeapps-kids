@@ -1,0 +1,17 @@
+{
+  "name": "Meet",
+  "description": "Access Meet",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://meet.google.com/u/0/"
+    ],
+    "launch": {
+      "web_url": "https://meet.google.com/u/0/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
